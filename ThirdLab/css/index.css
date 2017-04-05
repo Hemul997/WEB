@@ -1,0 +1,90 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  vertical-align: baseline;
+  font-family: inherit;
+  font-style: inherit;
+  font-size: 100%;
+}
+
+.open
+{
+  display: block;
+}
+
+.hidden
+{
+  display: none;
+}
+
+.main-content
+{
+  padding: 30px 30px 106px;
+  background: #D2691E;
+}
+
+.form
+{
+  float: left;
+  text-align: right;
+  padding-left: 50px;
+  margin-top: 10px;
+}
+
+.canvas
+{  
+  background-color: #fff;  
+  box-shadow: 0 1px 0 rgba(255,255,255,.2), inset 0 1px 1px rgba(0,0,0,.1);
+  border-top: 1px solid #8d939e;
+  border-right: 1px solid #a6acba;
+  border-bottom: 1px solid #c1c8d8;
+  border-left: 1px solid #a6acba;
+  float: right;
+  margin-left: 40px;
+}
+
+.list
+{
+  border-radius: 4px;
+  margin: 0 auto 20px;
+  width: 194px;
+}
+
+.input
+{
+  margin: 0 auto 10px;
+  text-align: center;
+  border-radius: 4px;
+  float: right;
+}
+
+.value
+{
+  float: left;
+}
+
+.block-info
+{
+  background: #fff;
+  border-radius: 2px;
+  padding: 15px;
+  float: right;
+  border: 1px solid #00223d;
+}
+.form-group
+{
+    margin: 0 0 4px 0;
+}
+.form-control:focus
+{
+    box-shadow: 0 0 5px #00223d, 0 0 12px #00223d;
+    border: 1px solid #00223d;
+}
+
+.form
+{
+    float: left;
+}
