@@ -74,6 +74,10 @@
   float: right;
   border: 1px solid #00223d;
 }
+.form
+{
+    float: left;
+}
 .form-group
 {
     margin: 0 0 4px 0;
@@ -84,7 +88,3 @@
     border: 1px solid #00223d;
 }
 
-.form
-{
-    float: left;
-}
